@@ -1,2 +1,1 @@
-# Yangilanish
-#golibjon
+# Jamoaviy loyiha
