@@ -1,11 +1,19 @@
+import Aliakbar from "./aliakbar/aliakbar";
+import Doniyor from "./doniyor/doniyor";
+import Golibjon from "./golibjon/golibjon";
+import Javohir from "./javohir/javohir";
+import Kamron from "./kamron/kamron";
+import Timur from "./timur/timur";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello world!</h1>
-      <h1>Hello from Kamronbek Sultanov 👋</h1>
-      <h1>Hello from Javohir</h1>
-      <h1>Hello from Aliakbar</h1>
+      <Javohir />
+      <Timur />
+      <Golibjon />
+      <Doniyor />
+      <Kamron />
+      <Aliakbar />
     </div>
   );
 }
