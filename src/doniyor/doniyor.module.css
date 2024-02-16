@@ -1,1 +1,26 @@
 /* css code */
+
+.container{
+    max-width: 2500px;
+    margin: 0 auto;
+}
+.top{
+    background: #7F9BBF40;
+    padding: 100px 150px ;
+    align-content: center;
+}
+.buutonLeft{
+    border: 3px solid #C2CBD7;
+}
+.buutonRight{
+    border: 3px solid #C2CBD7;
+}
+.rrrrrrrolp{
+    height: 700px;
+    position: absolute;
+}
+input{
+    width: 400px;
+    height: 40px;
+border: 1px solid ;
+}
