@@ -112,7 +112,7 @@ function Aliakbar() {
           <h1 className='text-5xl font-bold text-blue-950'>Наши клиенты</h1>
           <img src={span} alt="" />
         </div>
-        <div className='justify-center text-center flex'>
+        <div className='justify-center text-center flex pb-16'>
           <img src={sayt} alt="" />
         </div>
       </div>
