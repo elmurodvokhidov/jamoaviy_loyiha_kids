@@ -1,1 +1,14 @@
 /* css code */
+.box {
+    width:100%;
+}
+.card {
+    border: 1px white;
+    background-color:white;
+}
+.png {
+    padding: 30px;
+}
+.squre{
+
+}
