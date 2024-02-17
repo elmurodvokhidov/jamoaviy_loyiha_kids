@@ -1,6 +1,7 @@
 /* css code */
 .box {
-    width:100%;
+    max-width: 2500px;
+    margin: 0 auto;
 }
 .card {
     border: 1px white;

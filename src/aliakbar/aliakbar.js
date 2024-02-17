@@ -172,7 +172,7 @@ function Aliakbar() {
           <h1 className='flex pl-10 pt-2 gap-3'><img src={insta} alt="" />@diakonvet</h1>
           <h1 className='pt-5 pl-10'>Московская область, г. Пущино, <br />
             улица Грузовая, 1А, 142290</h1>
-            <button className='w-56 mt-8 h-14 bg-green-600 rounded-full'>Заказать консультацию</button>
+          <button className='w-56 mt-8 h-14 bg-green-600 rounded-full'>Заказать консультацию</button>
         </div>
       </div>
     </div>
